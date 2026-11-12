@@ -1,0 +1,7 @@
+"sample","condition","age","age_group"
+"sample1","control",25,"young"
+"sample2","control",31,"old"
+"sample3","control",28,"young"
+"sample4","treated",40,"old"
+"sample5","treated",35,"old"
+"sample6","treated",29,"young"
