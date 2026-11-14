@@ -6,4 +6,4 @@ Learning bioinformatics in public: R scripts, practice exercises, and small geno
 
 - Day 1: R data structures (vectors, matrices, factors, data frames, lists) ✅
 - Day 2: read.csv and dplyr (filter, select, mutate, arrange, group_by, summarise) ✅
-- Day 3: ggplot2 boxplot with jittered points ✅
+- Day 3: ggplot2 boxplot with jittered points ✅ ![boxplot](boxplot.png)
