@@ -8,3 +8,4 @@ Learning bioinformatics in public: R scripts, practice exercises, and small geno
 - Day 2: read.csv and dplyr (filter, select, mutate, arrange, group_by, summarise) ✅
 - Day 3: ggplot2 boxplot with jittered points ✅ ![boxplot](boxplot.png)
 - Day 4: bar plot and t-test ✅![Mean age by condition](barplot.png)
+- Day 5: recall + genes2 ✅
